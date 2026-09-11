@@ -1,0 +1,160 @@
+        THIS IS PLAYER 1 OUTPUT:
+     
+        I used Moba to create multiple terminals
+
+
+┌────────────────────────────────────────────────────────────────────┐
+     │                • MobaXterm Personal Edition v23.2 •                │
+     │              (X server, SSH client and network tools)              │
+     │                                                                    │
+     │ ⮞ Your computer drives are accessible through the /drives path     │
+     │ ⮞ Your DISPLAY is set to 10.101.84.97:0.0                          │
+     │ ⮞ When using SSH, your remote DISPLAY is automatically forwarded   │
+     │ ⮞ Your HOME folder is not persistent: it will be erased on restart │
+     │ ⮞ Each command status is specified by a special symbol (✓ or ✗)    │
+     │                                                                    │
+     │ • Important:                                                       │
+     │ This is MobaXterm Personal Edition. The Professional edition       │
+     │ allows you to customize MobaXterm for your company: you can add    │
+     │ your own logo, your parameters, your welcome message and generate  │
+     │ either an MSI installation package or a portable executable.       │
+     │ We can also modify MobaXterm or develop the plugins you need.      │
+     │ For more information: https://mobaxterm.mobatek.net/download.html  │
+     └────────────────────────────────────────────────────────────────────┘
+
+  06/04/2024   00:28.00   /home/mobaxterm  nc localhost 1024
+Welcome to Connect 4!
+
+
+1      2      3      4      5      6      7
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+It is your turn. Please type the column you will like to drop your token in. (1 to 6)
+x
+Invalid entry, please type an appropriate column number
+1
+
+
+1      2      3      4      5      6      7
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+X      -      -      -      -      -      -      1
+
+
+1      2      3      4      5      6      7
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+X      -      O      -      -      -      -      3
+1
+
+
+1      2      3      4      5      6      7
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+X      -      -      -      -      -      -
+
+X      -      O      -      -      -      -      1
+
+
+1      2      3      4      5      6      7
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+X      -      -      -      -      -      -
+
+X      O      O      -      -      -      -      2
+1
+
+
+1      2      3      4      5      6      7
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+X      -      -      -      -      -      -
+
+X      -      -      -      -      -      -
+
+X      O      O      -      -      -      -      1
+
+
+1      2      3      4      5      6      7
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+X      -      -      -      -      -      -
+
+X      O      -      -      -      -      -
+
+X      O      O      -      -      -      -      2
+1
+
+
+1      2      3      4      5      6      7
+
+-      -      -      -      -      -      -
+
+-      -      -      -      -      -      -
+
+X      -      -      -      -      -      -
+
+X      -      -      -      -      -      -
+
+X      O      -      -      -      -      -
+
+X      O      O      -      -      -      -      1
+You won!
+                                                                                                ✓
+
+  06/04/2024   00:28.59   /home/mobaxterm 
+                                                                                                ✗
+
+  06/04/2024   00:29.16   /home/mobaxterm 
